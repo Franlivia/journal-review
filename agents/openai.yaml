@@ -1,0 +1,4 @@
+interface:
+  display_name: "期刊审稿"
+  short_description: "依次确认审稿结论与己方补引，覆盖综评、宏观和细节，按反馈持续完善"
+  default_prompt: "请使用 $journal-review 审阅我提供的稿件，先确认审稿结论，再询问是否补引我们自己的论文。"
